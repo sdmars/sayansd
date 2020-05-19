@@ -1,0 +1,244 @@
+.sd_bg {
+  background-color: rgb(37, 37, 101) !important;
+  border-radius: 0px;
+  margin-bottom: 0px;
+}
+
+.sd_bg_collapse {
+  background-color: rgb(37, 37, 101) !important;
+  border-radius: 0px;
+  margin-bottom: 0px;
+  opacity: 70%;
+}
+.sd_margin {
+  margin-bottom: 10px;
+}
+
+.sd_footer {
+  background-color: #131333;
+}
+.sd_jumbo_border {
+  border-radius: 0%;
+}
+
+.sd_jumbo_serv {
+  background-color: rgb(42, 5, 77);
+}
+
+.sd_jumbo_exp {
+  background-image: url("img/blaptop.jpg");
+  background-size: cover;
+}
+
+.sd_jumbo_achv {
+  background-image: url("img/achv2.jpg");
+  background-size: cover;
+  /*mix-blend-mode: lighten;*/
+}
+
+.sd_achv_text {
+  color: #f2f5ef !important;
+}
+
+.sd_collapse_text {
+  color: #ddefca;
+}
+
+.sd_serv_card {
+  border-radius: 23px;
+}
+
+.sd_serv_text {
+  color: #f2f5ef !important;
+}
+
+.sd_card_bg {
+  background-color: rgb(13, 29, 56);
+}
+
+.sd_btn_bg {
+  background-color: red;
+}
+#jm_header {
+  background-image: url("img/smart_lappy.jpg");
+  background-size: cover;
+  opacity: 100%;
+  margin-bottom: 10px;
+  border-radius: 0;
+}
+
+.sd_text_home {
+  color: white !important;
+  font-style: italic;
+}
+
+.sep {
+  background-color: #252565;
+  color: white;
+  padding-left: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-radius: 20px;
+  opacity: 100%;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.sd_card_text {
+  font-size: larger;
+  font-weight: 400;
+}
+
+.sd_card_margin {
+  margin: 0px;
+}
+
+.sd_mid_para_ovr {
+  color: #e6f3f8;
+}
+
+.sd_frst_ln_ovr {
+  color: #e6f3f8 !important;
+}
+
+.jumbo_first_line {
+  font-style: italic;
+  font-weight: 500;
+  color: #050564;
+}
+
+.jumbo_mid_para {
+  font-size: larger;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sd_contact {
+  background-image: url("img/contact4.jpg");
+  background-size: cover;
+}
+
+.sd_text_c {
+  color: #ddefca;
+}
+
+/*social media icons*/
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+.fa-foursquare {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-stumbleupon {
+  background: #eb4924;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
